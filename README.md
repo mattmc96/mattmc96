@@ -28,13 +28,14 @@ githubUsername: 'mattmc96'
 
 
 **Web/Full Stack projects**
-
+<!--
 [![Connect](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)]
 [![GetAway](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)]
 [![Boulder Pub](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)]
 [![Rent-A-Ride](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)]
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)]
 [![Expense Tracker](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)]
+-->
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=mattmc96&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattmc96&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
